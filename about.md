@@ -1,6 +1,6 @@
 ---
 title: /
-layout: page
+layout: home
 permalink: /about
 ---
 
