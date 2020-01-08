@@ -4,9 +4,10 @@ layout: home
 permalink: /
 ---
 
-# Hi my name is Haley.  
+# Hi my name is
 
-![Self Portrait](/haley4.jpg)  
-  
-  
-Welcome to my website. Here you can find and read about all the things that make me smile.
+
+![Self Portrait](/haley.jpg)
+
+
+Welcome to my website. Here you can read about all the things that make me smile.
