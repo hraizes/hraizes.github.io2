@@ -4,8 +4,6 @@ layout: home
 permalink: /
 ---
 
-# Hi my name is
-
 
 ![Self Portrait](/haley.jpg)
 
