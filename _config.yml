@@ -6,6 +6,7 @@ header_pages:
  - index.md
  - about.md
  - running.md
+ - writing.md
  - resume.md
 footer: '<a href = "mailto: hraizes99@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/hraizes/">LinkedIn</a> | <a href="https://github.com/hraizes">GitHub</a>'
 
