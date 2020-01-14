@@ -6,4 +6,8 @@ permalink: /about
 
 # About me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hi, my name is Haley. I am currently a third year undergraduate student pursuing a double major in Computer and Cognitive Science. My two majors drive my ultimate goal of improving the overall interaction between people and technology.
+
+When I am not at the library, you can find me training for my next marathon, learning to rock climb, writing articles for Her Campus, or practicing my French. Most of my happiness in life comes from a cup of tea and a good book.
+
+
