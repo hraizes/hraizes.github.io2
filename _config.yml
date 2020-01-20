@@ -11,7 +11,7 @@ header_pages:
 footer: '<a href = "mailto: hraizes99@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/hraizes/">LinkedIn</a> | <a href="https://github.com/hraizes">GitHub</a> | <a href = "https://www.hercampus.com/author/haley-raizes">Writing</a> | <a href="https://connect.garmin.com/modern/profile/768cf206-5bff-4e27-9098-8254f4259332">Garmin</a>'
 
 style: light # dark (default) or light
-listen_for_clients_preferred_style: true # true or false (default)
+# listen_for_clients_preferred_style: true # true or false (default)
 
 plugins:
   - jekyll-seo-tag
