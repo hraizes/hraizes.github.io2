@@ -9,9 +9,9 @@ tags:       [blog,writing]
 
 # A Thousand Miles Later
 
-<p> Being human inherently tasks us with the question of how to best spend our time. This is essentially a re-wording of “What do you want to be when you grow up?”, but rather than making this question about you and what, I am more interested in discussing it in the context of us and how. </p>
+Being human inherently tasks us with the question of how to best spend our time. This is essentially a re-wording of “What do you want to be when you grow up?”, but rather than making this question about you and what, I am more interested in discussing it in the context of us and how. <br>
 
-<p> Most of us wake up each morning to climb metaphorical mountains. Essentially, we wake up for two reasons : either we are still searching for the right mountain, or we have found one and awaken to continue towards its summit. Overtime, our climb creates a ridgeline that outlines peaks, troughs, and stagnancies of our life. This story is about my shift from one who was searching to one who is now intentionally climbing. Below shares what I have discovered a thousand miles later: the essentials to effectively climb any mountain. </p>
+Most of us wake up each morning to climb metaphorical mountains. Essentially, we wake up for two reasons : either we are still searching for the right mountain, or we have found one and awaken to continue towards its summit. Overtime, our climb creates a ridgeline that outlines peaks, troughs, and stagnancies of our life. This story is about my shift from one who was searching to one who is now intentionally climbing. Below shares what I have discovered a thousand miles later: the essentials to effectively climb any mountain.
 
 ## The Mountain I Call Home
 
