@@ -11,6 +11,7 @@ tags:       [blog,writing]
 
 After speaking with a series of stay at home parents who now consider themselves empty nesters, I began to see a pattern emerge: getting back into the workforce is hard. As a young, moldable millennial, about to get a college degree, I wake up every morning privileged by my youth; I never think twice about whether or not the workforce will find me worthy of its attention.
 <br>
+
 Hackathons are centered around the idea of “coding for social good”. When I signed up for HackDavis 2020, I saw it as an opportunity to think further about the above problem. Three amazing women, Caitlyn Liu, Nicole Fell, and Ann Ryan, sat by my side, and together we discussed, renovated, and modified our ideas over 24 hours.
 <br>
 
