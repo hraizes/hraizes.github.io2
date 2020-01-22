@@ -18,7 +18,7 @@ Hackathons are centered around the idea of “coding for social good”. When I 
 
 Despite the overwhelming presence of experienced computer scientists and engineers, we were excited to see what our unique minds could conceive. Caitlyn’s background in English and Technology Communications enabled us to produce content that was concise and succinct. My background in Cognitive and Computer Science gave our team the fundamental understanding of web development. As both Ann and Nicole are studying Electrical and Computer Engineering, their ability to navigate the web, conduct research, gather resources, and design the pitch deck was invaluable.
 <br>
-![Return Ready Team](Images/returnready.JPG)
+![Return Ready Team](returnready.JPG)
 
 # Ideation
 
