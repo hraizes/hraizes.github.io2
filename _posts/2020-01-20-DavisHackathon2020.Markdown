@@ -45,6 +45,7 @@ According to [Working Mother](https://www.workingmother.com/5-top-re-entry-mom-t
 2. Hold in person workshops for Returners to cultivate new technical skills, work on their LinkedIn and resumes, and connect with others.
 3. Help consult companies build out more returnship programs.
 4. Conduct further market research on “Returners” to better understand our target audience, the problems they are facing, and the untapped potential that lies within the solution to this problem.
+
 <br>
 It’s easy to feel like one can’t make an impact in such a big world. However, there is a quote from The Lorax that motivates me to try anyways: "Unless someone like you cares a whole awful lot, nothing is going to get better. It’s not."
 
