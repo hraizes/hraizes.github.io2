@@ -6,7 +6,7 @@ permalink: /about
 
 # About me  
 
-<img style = "width: 100%; height: 100%; ; " src="./haley4.jpg"  alt="Profile Picture"  /> 
+<img style = "width: 20%; height: 20%; ; " src="./haley4.jpg"  alt="Profile Picture"  /> 
 
 Hi, my name is Haley. I am currently a third year undergraduate student pursuing a double major in Computer and Cognitive Science. My two majors drive my ultimate goal of improving the overall interaction between people and technology.
 <br>
