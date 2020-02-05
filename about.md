@@ -12,4 +12,4 @@ Hi, my name is Haley. I am currently a third year undergraduate student pursuing
 
 <br>
 
-My website displays the various hats I wear. When I am not at the library, you can find me running around the city of Davis, preparing for my second marathon. When I need a break from using my "left brain", I enjoy writing articles for Her Campus, practicing my French, or re-reading my favorite book, *We Are All Completely Beside Ourselves*. Most of my happiness in life comes from a cup of tea and a good book.
+My website displays the various hats I wear. When I am not at the library, you can find me running around the city of Davis, preparing for my second marathon. When I need a break from using my "left brain", I enjoy writing articles for Her Campus, practicing my French, or re-reading my favorite book, *We Are All Completely Beside Ourselves*.
