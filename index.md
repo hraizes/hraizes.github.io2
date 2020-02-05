@@ -8,4 +8,8 @@ permalink: /
 # Hi, my name is Haley.
 <br>
 
-My website domain intentially has two possible interpretations: "haleys miles" and "haley smiles". Ultimately, this is a place that shares about all the things that make me smile, including running many miles.
+This website is designed to share all the things that make me smile, including running many miles.
+
+<br>
+
+<img style = "width: 75%; height: 75%; display: block; margin-left: auto; margin-right: auto; " src="./GPSart.JPG"  alt="Profile"  />
