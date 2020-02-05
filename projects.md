@@ -4,8 +4,6 @@ layout: home
 permalink: /projects
 ---
 
-<h1>My Projects</h1>
-
 ## Return Ready
 Return Ready came to life at HackDavis2020. With the help of three talented women, we compiled resources for "returners". A "returner" refers to one who has taken an extended leave of absence from the workforce. On our website, returners can find personality quizzes, technical vocabulary definitions, and how-to guides for LinkedIn, resumes, and interviews. Additionally, we highlight organizations that dedicate resources to increasing the inclusivity of “Returners” in the workplace.
 
