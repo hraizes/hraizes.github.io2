@@ -20,6 +20,4 @@ I have worked as a Cross Country and Track coach at Harper Middle School in Davi
 <img style = "width: 60%; height: 60%; display: block; margin-left: auto; margin-right: auto; " src="./TPT_Demo.jpg"  alt="Profile"  />
 
 <br>
-Inside the app, parents can find a link to a google form to nodify me of athlete absenses. They can find practice times, race locations, and workout plans for the week. Additionally, each athlete has their own portfolio to track their improvement throughout the season and create personal goals.
-<br>
-You can test and view the real version of the application [here](https://www.appsheet.com/start/2d50c2b0-a166-4895-97fa-8776eb35f248#appName=TeamProgressTracker-1051736&page=gallery&sort=%5B%7B%22Column%22%3A%22Name%22%2C%22Order%22%3A%22Ascending%22%7D%5D&table=Athlete&view=Athletes).
+Inside the app, parents can find a link to a google form to nodify me of athlete absenses. They can find practice times, race locations, and workout plans for the week. Additionally, each athlete has their own portfolio to track their improvement throughout the season and create personal goals. You can test and view the real version of the application [here](https://www.appsheet.com/start/2d50c2b0-a166-4895-97fa-8776eb35f248#appName=TeamProgressTracker-1051736&page=gallery&sort=%5B%7B%22Column%22%3A%22Name%22%2C%22Order%22%3A%22Ascending%22%7D%5D&table=Athlete&view=Athletes).
