@@ -4,8 +4,9 @@ layout: home
 permalink: /about
 ---
 
-# About me <br>
-Hi, my name is Haley. I am currently a third year undergraduate student pursuing a double major in Computer and Cognitive Science. My two majors drive my ultimate goal of improving the overall interaction between people and technology. I recently joined the [Cognition in Context Lab](https://cognitionincontext.ucdavis.edu) at the Center for Mind and Brain as an undergraduate research assistant. My main topics of interest include the development of creative problem solving, resilience, and delayed gratification during childhood.
+# About me 
+<br>
+I am currently a third year undergraduate student pursuing a double major in Computer and Cognitive Science at the University of California, Davis. My two majors drive my ultimate goal of improving the overall interaction between people and technology. I recently joined the [Cognition in Context Lab](https://cognitionincontext.ucdavis.edu) at the Center for Mind and Brain as an undergraduate research assistant. My main topics of interest include the development of creative problem solving, resilience, and delayed gratification during childhood.
 <br>
 
 <img style = "width: 75%; height: 75%; display: block; margin-left: auto; margin-right: auto; " src="./haley.JPG"  alt="Profile"  />
