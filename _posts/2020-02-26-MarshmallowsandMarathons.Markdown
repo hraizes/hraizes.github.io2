@@ -12,7 +12,7 @@ tags:       [blog,writing]
 They say life is a marathon, not a sprint. This phrase refers to the mindset of thinking about the long term when making decisions and being cautious of overly expending energy too early in a process. Lena Rubisova remarks, “A key mindset present in both endurance athletes and business professionals is the ability to visualize the end goal and the ability to achieve it.” This December, I participated in the California International Marathon in Sacramento, where I took on 26.2 miles for the first time. Many people have asked me how I’ve gotten to this point in my running endeavors, so I would like to share a little about marshmallows.
 <br>
 
-<img style = "width: 5%; height: 5%; display: block; margin-left: auto; margin-right: auto;" src="./marathonStart.JPG"  alt="Start of CIM Marathon"/>
+<img style = "width: 20%; height: 20%; display: block; margin-left: auto; margin-right: auto;" src="./marathonStart.JPG"  alt="Start of CIM Marathon"/>
 
 The concept of delayed gratification was first introduced to me when reading about The Stanford Marshmallow Experiment back in high school. The experiment “laid the groundwork for the modern study of self-control.” This longitudinal study presented pre-school children with a choice. The experimenter would walk into the room with a single marshmallow. They would tell the child that they had to leave for a few minutes, and were welcome to eat the marshmallow in the meantime. However, if the child waited until the researcher returned, he or she would be given a second marshmallow.
 <br>
