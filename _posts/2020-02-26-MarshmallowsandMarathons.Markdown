@@ -7,7 +7,7 @@ category:   blog
 tags:       [blog,writing]
 ---
 
-<h2 style = "align: center">Marshmallows and Marathons</h2>
+#Marshmallows and Marathons
 
 They say life is a marathon, not a sprint. This phrase refers to the mindset of thinking about the long term when making decisions and being cautious of overly expending energy too early in a process. Lena Rubisova remarks, “A key mindset present in both endurance athletes and business professionals is the ability to visualize the end goal and the ability to achieve it.” This December, I participated in the California International Marathon in Sacramento, where I took on 26.2 miles for the first time. Many people have asked me how I’ve gotten to this point in my running endeavors, so I would like to share a little about marshmallows.
 <br>
