@@ -18,7 +18,7 @@ Most of us wake up each morning to climb metaphorical mountains. Essentially, we
 My climb began last January, approximately three hundred mornings ago. Fast forward to today, and I have ran a total of one thousand miles and counting - I have my Garmin watch to thank for keeping count. My climb up the Computer Science mountain may not have your typical green trees, nonetheless one should not underestimate the beautiful nature of binary trees. Not to mention the ability to make a nice bar graph from time to time. When I am not running up physical mountains, I work on my mental climb of running computer programs; that, however, is a story for another day.
 <br>
 
-<img style = "width: 100%; height: 100%; display: block; margin-left: auto; margin-right: auto;" src="https://www.haleysmiles.com/2019Mileage.jpg" alt="2019 Mileage"/>
+<img style = "width: 75%; height: 75%; display: block; margin-left: auto; margin-right: auto;" src="https://www.haleysmiles.com/2019Mileage.jpg" alt="2019 Mileage"/>
 
 <br>
 Upon looking at this graph, I began to wonder how I was able to maintain such a consistent display of effort and discipline. Back in January, I never set a goal to cover a one thousand miles this year. Instead, I woke up each morning, laced up my Nikes, and went out to test the limits of my legs. Thus, this number is just a descriptive statistic rather than a goal I worked toward during each run. Some days, my legs carry me for twelve miles before giving out, and on others, a slow two mile jog is enough to wind me. Regardless, I get out of bed each morning to feel the wind in my face and simply relish in the gift of nature. When I run, it is just me, my shoes, and the world to explore. I leave the practicalities of life behind and solely concentrate on the feeling produced by each individual step.
@@ -34,7 +34,7 @@ You will know you are on the right mountain when you wake up with no desire to b
 I experienced a lot of emotions over the span of a thousand miles. Some were familiar and enjoyable, such as the euphoria from adrenaline or the satisfaction from completing another run. However, I often experienced emotions that were not as enjoyable or familiar. When these emotions manifest, my initial reaction is to turn back altogether. The feeling of exhaustion on mile ten challenges my legs to keep going; guilt from taking a day off challenges me not to miss another. And, when I compare myself to those who can run faster or further, I doubt whether I am actually “good enough” to be a “real runner”. But, when you love the climb, you are willing to run through and experience all emotions because the presence of euphoria only exists relative to the presence of discomfort.
 <br>
 
-<img style = "width: 100%; height: 100%; display: block; margin-left: auto; margin-right: auto;" src="https://www.haleysmiles.com/20Miler.jpg" alt="First 20 Mile Race"/>
+<img style = "width: 25%; height: 25%; display: block; margin-left: auto; margin-right: auto;" src="https://www.haleysmiles.com/20Miler.jpg" alt="First 20 Mile Race"/>
 
 <br>
 Every mountain presents a similar array of emotions, and on every trail lies the breadth of human experience. When we learn to recognize and run through unfamiliar emotions rather than turning away to avoid them, we become equipped to take on any climb. The beauty of facing doubt and guilt in one environment is that it proves we can overcome them in another. All mountains contain moments of suffering, but we learn this pain contributes to the ultimate view awaiting at the summit.
