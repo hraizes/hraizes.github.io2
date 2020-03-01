@@ -24,6 +24,8 @@ The experiment followed up with the same participants as teenagers. Those who we
 Simply put, endurance running has taught me how to wait for a second marshmallow. When life presents the choice of instant gratification versus delayed gratification, I have cultivated the discipline to habitually choose the latter most of the time. After all, two marshmallows is better than one. Knowing that time and effort is an investment for a greater reward later makes waiting worthwhile.
 <br>
 
+<img style = "width: 75%; height: 75%; display: block; margin-left: auto; margin-right: auto;" src="https://www.haleysmiles.com/CIMRoute.jpg"  alt="CIM Marathon Route"/>
+
 However, the notion of life being a marathon rather than a sprint also indicates the importance of maintaining stamina. Always choosing to delay gratification can make us impatient and presents the possibility of burnout. Once in a while, it’s okay to just eat the darn marshmallow.
 <br>
 
