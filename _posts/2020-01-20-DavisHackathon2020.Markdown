@@ -8,7 +8,6 @@ tags:       [blog,writing]
 ---
 
 <h1 style="text-align: center;">Davis Hackathon 2020</h1>
-<br>
 
 # The Problem
 
@@ -51,4 +50,3 @@ According to [Working Mother](https://www.workingmother.com/5-top-re-entry-mom-t
 
 <br>
 It’s easy to feel like one can’t make an impact in such a big world. However, there is a quote from The Lorax that motivates me to try anyways: "Unless someone like you cares a whole awful lot, nothing is going to get better. It’s not."
-
