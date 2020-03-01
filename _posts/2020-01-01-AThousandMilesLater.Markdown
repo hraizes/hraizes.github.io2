@@ -7,7 +7,7 @@ category:   blog
 tags:       [blog,writing]
 ---
 
-# A Thousand Miles Later
+<h2 style="text-align: center;">A Thousand Miles Later</h2>
 
 Being human inherently tasks us with the question of how to best spend our time. This is essentially a re-wording of “What do you want to be when you grow up?”, but rather than making this question about you and what, I am more interested in discussing it in the context of us and how. 
 <br>
