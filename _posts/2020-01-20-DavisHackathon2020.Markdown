@@ -7,6 +7,9 @@ category:   blog
 tags:       [blog,writing]
 ---
 
+<h1 style="text-align: center;">Davis Hackathon 2020</h1>
+<br>
+
 # The Problem
 
 After speaking with a series of stay at home parents who now consider themselves empty nesters, I began to see a pattern emerge: getting back into the workforce is hard. As a young, moldable millennial, about to get a college degree, I wake up every morning privileged by my youth; I never think twice about whether or not the workforce will find me worthy of its attention.
