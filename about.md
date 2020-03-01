@@ -5,7 +5,7 @@ permalink: /about
 ---
 
 <h2 style="text-align: center;">About Me</h2>
-<br>
+
 I am currently a third year undergraduate student pursuing a double major in Computer and Cognitive Science at the University of California, Davis. My two majors drive my ultimate goal of improving the interaction between people and technology. I recently joined the [Cognition in Context Lab](https://cognitionincontext.ucdavis.edu) at the Center for Mind and Brain as an undergraduate research assistant. My main topics of interest include the development of creative problem solving, resilience, and delayed gratification during childhood.
 <br>
 
