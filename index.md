@@ -5,7 +5,7 @@ permalink: /
 ---
 
 
-# Hi, my name is Haley.
+<h2 style="text-align: center;">Welcome to HALEYSMILES.</h2>
 <br>
 
 This website is designed to share all the things that make me smile, including running many miles.
