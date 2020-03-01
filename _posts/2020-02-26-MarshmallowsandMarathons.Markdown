@@ -8,6 +8,7 @@ tags:       [blog,writing]
 ---
 
 <h2 style="text-align: center;">Marshmallows and Marathons</h2>
+<br>
 
 They say life is a marathon, not a sprint. This phrase refers to the mindset of thinking about the long term when making decisions and being cautious of overly expending energy too early in a process. Lena Rubisova remarks, “A key mindset present in both endurance athletes and business professionals is the ability to visualize the end goal and the ability to achieve it.” This December, I participated in the California International Marathon in Sacramento, where I took on 26.2 miles for the first time. Many people have asked me how I’ve gotten to this point in my running endeavors, so I would like to share a little about marshmallows.
 <br>
@@ -26,6 +27,7 @@ Simply put, endurance running has taught me how to wait for a second marshmallow
 
 <img style = "width: 75%; height: 75%; display: block; margin-left: auto; margin-right: auto;" src="https://www.haleysmiles.com/CIMRoute.jpg"  alt="CIM Marathon Route"/>
 
+<br>
 However, the notion of life being a marathon rather than a sprint also indicates the importance of maintaining stamina. Always choosing to delay gratification can make us impatient and presents the possibility of burnout. Once in a while, it’s okay to just eat the darn marshmallow.
 <br>
 
