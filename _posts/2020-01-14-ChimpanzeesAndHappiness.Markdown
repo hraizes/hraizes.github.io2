@@ -25,7 +25,7 @@ Upon finishing We Are All Completely Beside Ourselves, I came away with a much s
 There are two moments in my life that I can recall feeling “beside myself”. The first time was when I gave my senior year high school graduation speech. The second was crossing the finish line of the CIM marathon. They were both moments when my sense of self was overtaken by a whirlwind of emotions that made me feel indestructible.
 <p>&nbsp;</p>
 
-<img style = "width: 75%; height: 75%; display: block; margin-left: auto; margin-right: auto;" src="https://www.haleysmiles.com/GradSpeech.jpg" alt="High School Graduation Speech"/>
+<img style = "width: 50%; height: 50%; display: block; margin-left: auto; margin-right: auto;" src="https://www.haleysmiles.com/GradSpeech.jpg" alt="High School Graduation Speech"/>
 
 <p>&nbsp;</p>
 Although I am not sure if I will ever recover from this book hangover, Fowler deserves much credit for the way in which her words still linger with me long after finishing the novel. Rosemary constantly reminds me to embrace my individuality and to avoid the noise pollution so often found within the human world. As an animal rights advocate, this book touches a special place in my heart. When asked what Fowler hopes readers take away from her novel, she replied, “The world is a complicated, surprising, often horrible and often beautiful place. I just hope we can keep it. We’re not the only ones who live here”.
