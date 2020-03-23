@@ -17,7 +17,7 @@ I can’t help but try to understand the COVID-19 pandemic amidst the noise poll
 <br>
 That book you said you’ve been wanting to read, read it. That junk drawer you said you’ll clean out eventually, clean it. That empty journal that you said you would start writing in, don’t let it be empty a few months from now. Learn a new language, do home workouts with your family, learn how to program, or create toilet paper forts with all the rolls you’ve been hoarding. The point is, we all have things we say we would do if only we had the time. Well, now we do. It’s no secret that self-motivation is about as hard to find as Clorox wipes. But in all seriousness, figure out what you need to do to hold yourself accountable.
 <br>
-<img style = "width: 75%; height: 75%; display: block; margin-left: auto; margin-right: auto;" src="https://www.haleysmiles.com/emergencySupplies.jpg"  alt="Emergency Supplies Box"/>
+<img style = "width: 50%; height: 50%; display: block; margin-left: auto; margin-right: auto;" src="https://www.haleysmiles.com/emergencySupplies.JPG"  alt="Emergency Supplies Box"/>
 <br>
 Make sure to be your own critic when deciding whether or not to spread news regarding the virus. If you’re uncertain, it’s probably best to just hold off on hitting the post button. No amount of Google searching would make me think I know more about the virus than someone with twenty years of experience under their belt. So instead, I am just going to listen to the health professionals, stay indoors, think about the silver lining, and make sure I don’t regret the way I chose to spend this time in hindsight. I could go on for a while, but I have other things to do...family
 <br>
