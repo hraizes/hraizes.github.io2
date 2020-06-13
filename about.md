@@ -10,7 +10,7 @@ The name of my website has two interpretations: Haley Smiles and Haley's Miles. 
 
 <br>
 
-I work as a research assistant in the [Cognition in Context Lab](https://cognitionincontext.ucdavis.edu) at the Center for Mind and Brain . My main topics of interest include the development of creative problem solving, resilience, and delayed gratification during childhood.
+I work as a research assistant in the [Cognition in Context Lab](https://cognitionincontext.ucdavis.edu) at the Center for Mind and Brain. My main topics of interest include the development of creative problem solving, resilience, and delayed gratification during childhood.
 <br>
 
 <img style = "width: 75%; height: 75%; display: block; margin-left: auto; margin-right: auto; " src="./haley.JPG"  alt="Profile"  />
