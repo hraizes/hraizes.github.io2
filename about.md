@@ -6,11 +6,10 @@ permalink: /about
 
 <h2 style="text-align: center;">About Me</h2>
 
-The name of my website has two interpretations: Haley Smiles and Haley's Miles. I have collected many "hats" over the years and this website is intended to give a glimpse into each. In layman's terms, I am a fourth year undergraduate pursuing a double major in Computer and Cognitive Science at the University of California, Davis. My two majors drive my ultimate goal of improving the interaction between people and technology. 
-
+The name of my website has two interpretations: Haley Smiles and Haley's Miles. I have collected many "hats" over the years and this website is intended to give a glimpse into each. In laymans terms, I am a fourth year undergraduate pursuing a B.S. in Computer and a minor in Philosophy at the University of California, Davis.
 <br>
 
-I work as a research assistant in the [Cognition in Context Lab](https://cognitionincontext.ucdavis.edu) at the Center for Mind and Brain. My main topics of interest include the development of creative problem solving, resilience, and delayed gratification during childhood.
+I worked as a research assistant in the [Cognition in Context Lab](https://cognitionincontext.ucdavis.edu) at the Center for Mind and Brain during my junior year. My main topics of interest include the development of creative problem solving, resilience, and delayed gratification during childhood.
 <br>
 
 <img style = "width: 75%; height: 75%; display: block; margin-left: auto; margin-right: auto; " src="./haley.JPG"  alt="Profile"  />
