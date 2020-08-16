@@ -6,7 +6,6 @@ permalink: /projects
 
 # Davis Youth Running Club
 Through the months of June through August 2020 I put on a virtual running club in an effort to motivate kids to get outdoors and move during quarentine. 40 athletes joined the team and we used Strava and Zoom to interact with each other. I created weekly workouts and had the runners partcipate in personal race days where the goal of the run was to strive for a personal record. Throughout the season, each runner used GPS technology to run a letter. As seen below, we created a Strava masterpiece! Check out our team Strava page [here](https://www.strava.com/clubs/dyrc). 
-<br>
 <img style = "width: 75%; height: 75%; display: block; margin-left: auto; margin-right: auto; " src="./dyrcStravaArt.png"  alt="Profile"  />
 
 # Return Ready
